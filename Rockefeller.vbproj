@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21E2EDEB-B621-4ABA-BF53-71DECAEB9F73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MUN.My.MyApplication</StartupObject>
+    <RootNamespace>MUN</RootNamespace>
+    <AssemblyName>Munrun</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>munrun %281%29.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>79290363C8EB14F94E22602610D1FFA0663D1843</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Rockefeller_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetZone>LocalIntranet</TargetZone>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>C:\Michael\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.7.2.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Munrun.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Munrun.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TwitterVB, Version=2.0.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\TwitterVB.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.Designer.vb">
+      <DependentUpon>AboutBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCustomCountry.Designer.vb">
+      <DependentUpon>AddCustomCountry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddCustomCountry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDoc.Designer.vb">
+      <DependentUpon>AddDoc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddDoc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddToLibrary.Designer.vb">
+      <DependentUpon>AddToLibrary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddToLibrary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddWP.Designer.vb">
+      <DependentUpon>AddWP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddWP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amender.Designer.vb">
+      <DependentUpon>Amender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Amender.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Amendments.Designer.vb">
+      <DependentUpon>Amendments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Amendments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="ChangeTime.Designer.vb">
+      <DependentUpon>ChangeTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClauseMatch.Designer.vb">
+      <DependentUpon>ClauseMatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ClauseMatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fullscreen.Designer.vb">
+      <DependentUpon>Fullscreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Fullscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportFromList.Designer.vb">
+      <DependentUpon>ImportFromList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImportFromList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibrarySelect.Designer.vb">
+      <DependentUpon>LibrarySelect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LibrarySelect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadList.Designer.vb">
+      <DependentUpon>LoadList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoadList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message.designer.vb">
+      <DependentUpon>Message.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Message.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModCaucus.Designer.vb">
+      <DependentUpon>ModCaucus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModCaucus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Munchkin.Designer.vb">
+      <DependentUpon>Munchkin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Munchkin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MunchkinSplash.Designer.vb">
+      <DependentUpon>MunchkinSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MunchkinSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NameAndSponsor.Designer.vb">
+      <DependentUpon>NameAndSponsor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NameAndSponsor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NextSpeakerDisplay.Designer.vb">
+      <DependentUpon>NextSpeakerDisplay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NextSpeakerDisplay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PickAmendClauses.Designer.vb">
+      <DependentUpon>PickAmendClauses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PickAmendClauses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveClose.Designer.vb">
+      <DependentUpon>SaveClose.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SaveClose.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SavedVotes.Designer.vb">
+      <DependentUpon>SavedVotes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SavedVotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SaveListName.Designer.vb">
+      <DependentUpon>SaveListName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SaveListName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetDropio.Designer.vb">
+      <DependentUpon>SetDropio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SetDropio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowSponsors.Designer.vb">
+      <DependentUpon>ShowSponsors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShowSponsors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics.Designer.vb">
+      <DependentUpon>Statistics.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Statistics.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Substantive.Designer.vb">
+      <DependentUpon>Substantive.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Substantive.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timer.Designer.vb">
+      <DependentUpon>Timer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Timer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WordWarning.Designer.vb">
+      <DependentUpon>WordWarning.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WordWarning.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCustomCountry.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddCustomCountry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDoc.resx">
+      <DependentUpon>AddDoc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddToLibrary.resx">
+      <DependentUpon>AddToLibrary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddWP.resx">
+      <DependentUpon>AddWP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amender.resx">
+      <DependentUpon>Amender.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amendments.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Amendments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeTime.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ChangeTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClauseMatch.resx">
+      <DependentUpon>ClauseMatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fullscreen.resx">
+      <DependentUpon>Fullscreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportFromList.resx">
+      <DependentUpon>ImportFromList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibrarySelect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LibrarySelect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoadList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message.resx">
+      <DependentUpon>Message.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModCaucus.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ModCaucus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Munchkin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Munchkin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MunchkinSplash.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MunchkinSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NameAndSponsor.resx">
+      <DependentUpon>NameAndSponsor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NextSpeakerDisplay.resx">
+      <DependentUpon>NextSpeakerDisplay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PickAmendClauses.resx">
+      <DependentUpon>PickAmendClauses.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveClose.resx">
+      <DependentUpon>SaveClose.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SavedVotes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SavedVotes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveListName.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SaveListName.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetDropio.resx">
+      <DependentUpon>SetDropio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowSponsors.resx">
+      <DependentUpon>ShowSponsors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Statistics.resx">
+      <DependentUpon>Statistics.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Substantive.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Substantive.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Timer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Timer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WordWarning.resx">
+      <DependentUpon>WordWarning.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\move_vertical_9x24.png" />
+    <None Include="Resources\arrow_up_alt1_24x24.png" />
+    <None Include="Resources\arrow_down_alt1_24x24.png" />
+    <Content Include="munrun %281%29.ico" />
+    <None Include="Resources\arrow_down_16x16.png" />
+    <None Include="Resources\arrow_up_16x16.png" />
+    <Content Include="Resources\blue_arrow_down.png" />
+    <Content Include="Resources\blue_arrow_up.png" />
+    <None Include="Resources\minus_alt_24x24.png" />
+    <None Include="Resources\minus_alt_16x16.png" />
+    <None Include="Resources\Delete.bmp" />
+    <None Include="Resources\merge_up.png" />
+    <None Include="Resources\merge_down.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\split.png" />
+    <None Include="app.config" />
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="Resources\IT_CTBT.txt" />
+    <None Include="Resources\IT_NPT.txt" />
+    <None Include="Resources\IT_GenevaIII.txt" />
+    <None Include="Resources\IT_GenevaII.txt" />
+    <None Include="Resources\IT_GenevaI.txt" />
+    <None Include="Resources\IT_Geneva4.txt" />
+    <None Include="Resources\IT_Geneva3.txt" />
+    <None Include="Resources\IT_Geneva2.txt" />
+    <None Include="Resources\IT_RomeStatute.txt" />
+    <None Include="Resources\IT_Geneva.txt" />
+    <None Include="Resources\IT_Kyoto.txt" />
+    <None Include="Resources\ROP_SUSMUN.txt" />
+    <None Include="Resources\ROP_SydMUN.txt" />
+    <None Include="Resources\UN_UnDecHR.txt" />
+    <None Include="Resources\UN_StatuteICJ.txt" />
+    <None Include="Resources\ROP_Oxford.txt" />
+    <None Include="Resources\ROP_Cambridge.txt" />
+    <None Include="Resources\ROP_WorldMUN.txt" />
+    <None Include="Resources\ROP_AMUNC.txt" />
+    <None Include="Resources\UNCharter.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
