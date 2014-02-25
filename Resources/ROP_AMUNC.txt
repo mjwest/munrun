@@ -2,408 +2,390 @@ Asia-Pacific Model United Nations Conference
 
 General Rules of Procedure  
 
-SECTION A: COMMITTEES  
+SPreliminary
 
-Rule 1 Scope of these Rules of Procedure  
+1. Scope of rules of procedure 
+These rules of procedure shall apply throughout all sessions to all general committees, and the Security Council. They shall also apply to delegates in the NGO and International Press Gallery programmes interacting in these committees. 
+ 
+2. Public observation and statements by the Secretariat 
+No member of the public may enter the committee without permission and introduction from a member of the Secretariat. The Secretariat may interrupt the committee at any time, to make a statement on any subject. 
+ 
+3. Committee Interaction 
+If a member or members of another committee enter another committee session, they must report to the Chair. The Chair shall set the speaking time for any address to the committee and the chair will entertain points of information at their discretion. The chair may also dispense with the formal rules of procedure, if deemed necessary. 
+ 
+4. Language 
+The working language of the conference shall be English.
 
-These Rules of Procedure shall apply throughout all meetings of all Committees at the Asia Pacific Model United Nations Conference 2007 except the Security Council, International Court of Justice and General Assembly.  
+Committee
 
-RULE 2 Regular Sessions  
+5. Agenda 
+The committee shall discuss one topic established by the Secretariat. Additional items of urgent importance may be added to the agenda of any committee at the discretion of the Secretariat. 
 
-There shall be eight Regular Sessions of each Committee and two sessions of the General Assembly at the Asia Pacific Model United Nations Conference.  
+6. Quorum 
+Quorum shall be half of the registered voting delegates of the committee. If quorum is not met at any point in time, the committee cannot function. Verification of quorum shall take place at the commencement of the first session, following roll call, or by a delegate's request or director's discretion at any point during committee session. 
 
-RULE 3 Special Sessions  
+7. Manner 
+Delegates' behaviour must be respectful and appropriate. Delegates should use and address others in diplomatic manner and language e.g. "honourable delegate/honourable chair". Delegates shall avoid using personal pronouns when addressing the chair or other delegates. e.g. "You/He/She/I". 
 
-During the week of the Conference, the Secretariat, in conjunction with Committee Directors, may call one or more Special Sessions of any Committee.  
+8. Arriving late to committee 
+The penalty for late arrival shall be subject to the discretion of the director. Consistent lateness may be managed under the conduct system (see Rule 11). 
 
-Rule 4 Agenda  
+9. Leaving the committee 
+	a. Delegates, where appropriate, may leave a session of the committee at any time, without disrupting the committee session e.g. for bathroom breaks. 
 
-Each Committee shall discuss two issues and the order of these issues shall be decided by the Secretariat. Additional items of urgent importance may be added to the agenda of any Committee or of the General Assembly at the discretion of the Secretariat.  
+	b. Delegates wishing to leave a session permanently should notify the director in advance, and should inform him or her as to their expected time of return or whether they will rejoin the committee at the recommencement of the next session. The lodging of any proxy votes must be done prior to a delegate leaving the committee room (see Rule 88). Directors' discretion will determine the appropriateness of leaving a committee session.
 
-Rule 5 Credentials of Committee Delegates  
+10. Note passing 
+Notes may only be passed during periods of formal debate, questions or moderated caucus. Notes shall not be frivolous or irrelevant. All notes must state clearly both to whom it is addressed and whom it is from. No delegate may intercept or read a note that that is not addressed to them. The chair shall retain the right to read and confiscate any note. 
+ 
+11. Conduct system 
+The director may deliver a warning to any delegate that they feel is persistently out of order, acting undiplomatically, or severely misrepresenting the policy of the country or body they represent. Warnings shall apply to a particular session only, and thus shall not be accumulated across the conference. However, if a delegate is consistently out of order across multiple sessions and has already received two or more warnings in one session, the Secretariat may issue further sanctions, including removal from the committee. 
 
-All registered delegates to the Conference are deemed to possess the appropriate credentials for admission to their allocated Committee.  
+The penalty system is: 
+	a. First warning: no penalty. 
+	b. Second warning: the delegate loses their voting rights for the committee session. 
+	c. Third warning: the delegate loses their speaking rights for the committee session. 
+The director must let the Secretariat know of these warnings and may call upon a member of the Secretariat. 
 
-Rule 6 Quorum  
+12. Role of directors 
+The directors of the committee are responsible for facilitating debate amongst delegates, implementing and enforcing these rules of procedure, and communicating information to and from the Secretariat. 
+ 
+13. Powers of directors 
+The director may open and close committee debate at his or her discretion; propose any motion listed under these rules of procedure; draw up, open and close speakers lists; rule upon matters of procedure; distribute materials; censure delegates; and exercise all other powers necessary to enforce rules of procedure.
 
-Quorum shall be one half of the registered delegates of a Committee. Verification of quorum shall take place at the commencement of the first session and by delegate's request. Verification shall be by roll call.  
+14. Appeals
+Exercises of the director's discretion may be appealed. To appeal a decision, a delegate should call a point of order and then request an appeal. Frivolous appeals may be disallowed by the alternate director. The director whose decision is under appeal shall step down from chairing duties for the duration of the appeal. The other director or a representative of the Secretariat shall then oversee the committee. 
+ 
+The delegate shall then speak to his or her appeal for no more than one minute. The director may then reply in defence of his or her ruling. The appeal shall then be put to a vote. If a two-thirds majority is attained, the decision of the director shall be over-ruled. 
+ 
+15. Observer states and non-government organisations 
+Observers and NGOs shall not have voting rights (see Rule 75). Delegates representing these entities shall be afforded full speaking rights, and may raise points and/or motions from the floor and submit working papers. 
+ 
+Press organisations shall have no formal rights in committee. Delegates from the press gallery may observe committee sessions and interact with delegates during unmoderated caucus. Press delegates may seek permission from the chair to ask a question of a delegate during formal debate and following moderated caucus. No more than three questions may be asked per committee session. The Security Council may announce a 'closed session' at their discretion, where press may not attend.
 
-Rule 7 Public Observation  
+Order of session
 
-No member of the public may enter the Committee Chamber without permission from the Secretariat.  
+16. Roll call 
+Roll call shall be taken before commencement of each Committee day. When a delegate is called, they shall respond with "present and voting" and they shall then be added to the list of members present and voting.  
 
-Rule 8 Statements by the Secretariat  
+Any delegates who are not present at roll call will be later added to the list of members present and voting at the directors' discretion. 
 
-The Secretariat may interrupt any Committee at any time to make a statement on any subject whatsoever. 
+17. Right to statement 
+At the beginning of each session, delegates may request to give a short speech on any topic other than the substantive issue under discussion. This shall be subject to the discretion of the director. 
+ 
+18. Minute of prayer or meditation 
+At the beginning of each session, delegates may request a minute of prayer or meditation. The delegate shall be asked to specify a particular topic to be considered. This shall be subject to the discretion of the director. 
+ 
+19. Position statements 
+Discussion on each committee topic shall begin with position statements, allowing each delegate to introduce their country or organisation's stance on the issue. They shall be no longer than one minute each, although this time limit may be modified at the discretion of the director. The director shall recognise delegates of member states in alphabetical order and offer each the opportunity to give their statement. The director shall then call upon any observers present. Delegates may refrain from making a statement if they wish. Position statements shall only occur at the beginning of the first committee session on each topic. 
+ 
+20. Commencement of debate 
+At the completion of position statements (at the start of debate on a committee topic) or the opening of a committee session, the director shall announce the commencement of debate. If the speakers list was not exhausted at the completion of the previous session, it shall be resumed.
 
-Rule 9 Language  
+21. Introduction of non-government organisations 
+Upon entering a session, and when appropriate, debate may be paused and NGOs allowed an 
+introductory statement to the entire committee. Introduction of NGOs may only occur following 
+the commencement of debate. 
+ 
+22. Substantive debate 
+Substantive debate on the topic shall be divided into three categories: formal debate, moderated caucus, and unmoderated caucus. Each of these is described in more detail below. 
 
-The working language of the Conference shall be English.  
+23. Closure of session 
+Debate may be ended by a motion to close debate or motion to adjourn (see Rules 66 and 71). The director may close debate at their discretion, with due consideration applied to scheduled closing times and the facilitation of debate, and making note of the time that the committee will reconvene. 
 
-Rule 10 Leaving the Committee  
+24. Press conferences 
+Press conferences shall occur during or after committee sessions at times pre-scheduled by the Secretariat. During this time, press delegates shall be allowed to ask questions of any delegates in the committee. This shall occur for a period of time at the director's discretion. The director may limit the amount of questions asked, response time and delegates questioned.
 
-Delegates may leave a Committee session at any time, so long as this does not interrupt a speaker. Delegates wishing to leave a Committee session should notify the Director in advance, and should inform him or her as to their expected time of return or as to whether they will rejoin the Committee at the commencement of the next session.  
+Formal debate
 
-Rule 11 Note Passing  
+25. Definition of formal debate 
+Formal debate shall be the primary method for discussion of topics at the conference. Formal debate requires a single speaker to address the entire committee from the front of the committee room. Formal debate may address the committee topic, a draft resolution, an amendment or any other topic at the discretion of the director. Formal debate is strictly governed by the speakers' list, and proceeds sequentially through each speaker on the list. Time limits for speeches shall be set by the director, but shall be no more than three minutes. All motions and points from the floor shall be open.
 
-Notes will only be passed during periods of Formal Debate or Moderated Caucus. Notes may not be frivolous or irrelevant. All notes must state clearly both to whom it is addressed and who it is from. Conference Assistants, Directors or other representatives of the Secretariat may intercept and/or read any note. No delegate except that to whom it is addressed may read a note.  
+Moderated caucus
+
+26. Definition of moderated caucus 
+Moderated caucus is a focused form of debate. Moderated caucus requires an alternating series of speakers to address the committee from their seats on a pre-determined topic area for a pre- determined amount of time. Time limits for speeches shall be set by the director, but shall be no more than two minutes. Moderated caucus is not governed by a speakers list. 
+
+27. Initiation of moderated caucus 
+Moderated caucus must be initiated by motion. At the initiation of a moderated caucus, the maker of the motion shall specify the topic, duration and individual speech times of the moderated caucus (no more than two minutes). 
+ 
+28. Procedure in moderated caucus 
+Speakers shall remain at their seats within the committee throughout the moderated caucus. Speakers shall stand only when recognised by the director. No speakers list shall be drawn up. The director shall, at the completion of each speech, call for those wishing to speak to raise their placards and then recognise one such delegate, who shall then stand and speak. All speeches shall be made through the directors, and speech time limits will be closely enforced. If the moderated caucus was initiated by motion from the floor, its proposer shall speak first. 
+
+29. Topic of moderated caucus 
+Moderated caucus shall be specifically focused upon an issue within the scope of the topic. If a speaker deviates from this, the director may rule him or her as out of order, or another delegate may call a point of order. 
+
+30. Duration of moderated caucus 
+The duration of a moderated caucus shall be set by the director, considering any suggestion of duration from the proposer. The director may extend a moderated caucus without a motion or a motion to extend from the floor for a maximum of five minutes. A director may not extend a particular moderated caucus more than once. Delegates may propose a motion to return to formal debate, and if such a motion passes, the moderated caucus shall end.
+
+Unmoderated caucus
+
+31. Definition of unmoderated caucus 
+An unmoderated caucus is a period of discussion for a fixed length during which time delegates may circulate and informally discuss issues arising from the topic under discussion. No points or motions from the floor shall be entertained. 
+ 
+32. Initiation of unmoderated caucus 
+Unmoderated caucus must be initiated by motion. At the initiation of an unmoderated caucus, the director shall specify the duration to all delegates. The director may also, at their discretion, specify any limits to the location of the unmoderated caucus; and/or whether the general speakers list remains open. 
+ 
+33. Duration of unmoderated caucus 
+The duration of an unmoderated caucus shall be set by the directors. Delegates proposing an unmoderated caucus may suggest a time limit. These time limits shall be strictly applied, but the director may extend unmoderated caucuses at their discretion. A director may not extend a particular unmoderated caucus for more than ten minutes, and this shall not occur more than once. All delegates must return to their seats at the completion of the unmoderated caucus, or leave the chamber in accordance with Rule 9. 
+ 
+34. Location of unmoderated caucus 
+Delegates may leave the chamber during an unmoderated caucus, subject to Rule 33. It is their responsibility to ensure that they return to the chamber at the completion of the caucus. 
+ 
+35. Conduct of directors during unmoderated caucus 
+At least one director shall remain within the chamber throughout the unmoderated caucus.
+
+Working papers, draft resolutions & amendments
+
+36. Distribution of working papers Working papers may be submitted to the directors by any delegate. To be distributed to the committee, a working paper must have a proposer and be sponsored in writing by at least one- tenth of the registered voting member states in the committee. The working paper must clearly state the committee and topic, and should be typed and free from errors of spelling or grammar. 
+ 
+37. Introduction of working papers 
+Working papers are considered as introduced when they are made available by directors for all committee members, and may not be formally discussed until they are introduced. Multiple working papers may be discussed simultaneously and do not generate speakers lists. The director shall notify all delegates of the introduction of a working paper. 
+ 
+38. Distribution of draft resolutions 
+Draft resolutions may be submitted by any voting member state. Before it may be introduced, the director must distribute a copy of the draft resolution to all delegates. To be distributed, a draft resolution must: 
+
+	a. Be signed by its proposer and seconder; 
+	b. Be sponsored, in writing, by at least one quarter of the registered voting member states in the committee; 
+	c. Clearly state the committee and topic; 
+	d. Follow correct UN resolution format, including use of appropriate operative and preambulatory clauses, language and structure; and 
+	e. Be typed and free from errors of spelling or grammar. 
+
+The director has the right to reject frivolous or inappropriate draft resolutions.
+
+39. Introduction of draft resolutions 
+Draft resolutions are introduced by motion from the floor. If a draft resolution is successfully introduced: 
+ 
+	a. The director shall close and suspend the current speakers list; 
+	b. The proposer shall come forward and read the operative clauses;
+	c. Questions of clarification shall be entertained; 
+	d. The proposer shall speak to the draft resolution; 
+	e. The director shall open the draft resolution speakers list; 
+	f. The seconder shall speak to the draft resolution; then 
+	g. The draft resolution speakers list shall commence with the first speaker against. 
 
  
+40. Questions of clarification 
+Questions of clarification may be asked of the proposer from the floor. Questions of clarification may include questions about the definition of terms or the meaning of potentially ambiguous terms and phrases. Questions of clarification may not be asked so as to induce debate on the recommendation, or to question the proposer's position on an agenda item. 
+ 
+41. Syntactic and semantic amendments 
+Any syntactic or semantic amendments shall be made either prior to the introduction of a draft 
+resolution and by the director once a draft resolution has been passed. No syntactic amendments shall be entertained from the floor. This includes corrections to spelling, punctuation and grammar. 
+ 
+42. Distribution of amendments 
+Amendments may be submitted by any voting member state. An amendment must be submitted to the director before it may be introduced. All delegates must have the opportunity to read an amendment before any vote on its introduction. An amendment must: 
 
-SECTION B: DIRECTORS  
+	a. Be signed by its proposer and seconder; 
+	b. Be signed by at least ten per cent of the registered voting Member States in the committee; 
+	c. Clearly state the committee and topic; 
+	d. Follow correct UN Resolution format; and 
+	e. Be typed and free from errors of spelling and grammar. 
 
-Rule 12 Committee Directors  
+The director has the right to reject frivolous or inappropriate amendments.
 
-Each Committee shall have two Directors.  
+43. Introduction of amendments 
+Amendments are introduced by motion from the floor. If an amendment is successfully introduced: 
+ 
+	a. The director shall close and suspend the draft resolution speakers list; 
+	b. The proposer shall come forward and read the amendment; 
+	c. Questions of clarification shall be entertained;  
+	d. The committee shall carry out a vote to determine whether or not to debate the 
+amendment; 
+	e. Then: 
+		i. If the vote to debate the amendment passes, a moderated caucus at the director's discretion will be undertaken; or 
+		ii. If the vote to debate fails, the amendment shall move directly to a vote. 
 
-Rule 13 Role of Committee Directors  
+Speakers lists
 
-The Directors of each Committee shall be responsible for facilitating debate amongst delegates, implementing and enforcing these Rules of Procedure, and communicating information to and from the Secretariat.  
+44. Role of speakers lists 
+Speakers lists shall determine the speaking order throughout formal debate and shall be drawn up by the director. During formal debate, only speakers on a speakers list may give speeches, although others may raise motions and points from the floor or speak if yielded to. 
+ 
+There are two types of speakers lists: 
+	a. General speakers list; and
+	b. Draft resolution speakers list. 
+ 
+When speaking from the draft resolution or amendment speakers list, delegates may not refer to any other draft resolution or amendment other than the one currently under debate. 
+ 
+45. Opening and closure of the speakers list 
+The director will open and close speakers lists by declaration. Speakers may only be added to an open speakers list. 
+ 
+46. Addition to, and removal from, the speakers list 
+When a speakers list is opened, delegates may be added to the list by raising their placard if requested to do so by the director, by sending a note to the chair, or by request during unmoderated caucus. 
+ 
+No delegate may be added to a speakers list that he or she is already on. A delegate who has spoken or been otherwise removed from a speakers list may be added to the speakers list. A delegate may be removed from the speakers list by sending a note to the director. 
 
-Rule 14 Powers of Committee Directors  
+47. Procedural debate 
+If procedural debate is successfully motioned, one speaker for and one speaker against the motion may speak before the vote is taken. Delegates may only debate the proposal, and must not refer to substantive matters. Procedural debate must always occur before voting on a motion to close debate. In these circumstances, up to three speakers may speak for and against the motion. 
 
-The Directors of each Committee may open and close each session at his or her discretion; propose any motion listed under these Rules of Procedure; draw up, open and close Speakers' Lists; rule upon matters of procedure; Rules of Procedure distribute materials; censure delegates and exercise all other powers necessary to enforce these Rules of Procedure.  
+48. Yielding 
+At any time during formal debate, a speaker, upon the completion of his or her speech, shall have 
+the opportunity to yield to: 
+ 
+	a. The director, in which case the next speaker shall be invited forward; 
+	b. Another delegate on the speaker's list, in which case the director shall invite that delegate forward to speak; 
+		i. If the original speaker did not take any points of information, and has time remaining, the incoming speaker may speak for the sum of the time allocated to them by the speakers list and the remaining time of the yielding speaker; 
+		ii.If the yielding speaker took points of information, or exhausted his time, the 
+incoming speaker shall only have their previously allocated time; or 
+	c. Any delegate not on the speaker's list, in which case the incoming delegate may speak 
+only for as long as the outgoing delegate had time remaining; 
+		i. A delegate may only yield to another delegate not on the speakers list if he or she has time remaining; and he or she did not take points of information. 
+ 
+No more than two consecutive yields to other delegates will be accepted; the third yield will automatically go to the director. In cases where a yield, other than to the chair, has been entertained, directors shall not entertain any motion.
 
-Rule 15 Precedence of Delegates  
+Points from the floor
 
-The Director shall endeavour to ensure that all delegates are accorded fair and reasonable opportunities to speak. Where appropriate, the Director may accord precedence to delegates who have not yet spoken. The Director may also accord precedence to delegates representing Member States with special or particular relationships to the issue under debate.  
+49. Raising points from the floor 
+Generally, when raising a point from the floor, a delegate should raise his or her placard, and when recognised by the director, state the point being raised. The exception to this rule is points of order, which may interrupt speakers (see Rule 50). 
 
-Rule 16 Grounds for Censure  
+50. Points of order 
+A delegate may call a point of order if another delegate or the director is in breach of these rules of procedure. It is suggested that delegates refrain from raising points of order unless they are quite sure of a serious breach of the rules that has the capacity to affect the outcome of debate. A delegate raising a point of order may not interrupt any speaking delegates at any time, but instead raise their placard and wait for the speaking delegate to finish, at which point the director may recognise their point of order. When a point of order is recognised, the delegate shall explain, in less than thirty seconds, how procedure has not been followed. The director shall then rule as to whether the point is in or out of order. 
+ 
+51. Points of personal privilege 
+Points of personal privilege may be raised if a speaker is inaudible or any matter of the committee environment is unsatisfactory. When a point of personal privilege is recognised, the delegate raising the point is to explain his or her concern in less than thirty seconds. 
+ 
+52. Points of procedural enquiry 
+A point of procedural enquiry allows a delegate to clarify matters of procedure. Points of procedural enquiry may not interrupt speakers. When a point of procedural enquiry is recognised, the delegate raising the point is to outline, in less than thirty seconds, what element of procedure on which he or she wishes clarification. Unless urgent, points of procedural enquiry should be made in writing. Whether or not the point is made orally, the director shall respond with an oral declaration to all delegates.
 
-The Director may censure any delegate he or she reasonably believes is knowingly acting in disregard of these rules of procedure or otherwise acting against the best interests of the Conference and Committee. Obscene, undiplomatic or frivolous behaviour may result in a warning. Directors will also censure any delegate who misrepresents or gravely distorts his or her nation's position.  
+53. Points of information 
+Points of information are brief, relevant questions offered to other delegates. They may be raised at the end of any speech arising from a non-procedural speakers list. Speakers may choose to accept or refuse points of information. If a speaker elects to take points of information, the director will invite delegates wishing to make such points to raise their placards and await recognition. The director or delegate may limit the number of points of information at his or her discretion. Delegates must state Points of Information as a short question.
 
-Rule 17 Effects of Censure  
+Once a speaker has addressed a delegate's Point of Information, the delegate who raised the Point of Information is not permitted to respond to the speaker further (to prevent cross forward debate). Delegates may be entitled to ask more than one point of information, if there are no other points being raised, and at the discretion of the director. 
+ 
+54. Objection of position 
+If a delegate feels that another delegate has grossly misrepresented their country's position, or has clearly gone against the known policy of their country, or has acted in a way that is clearly at odds with his or her statements during debate, he or she can call a point of order on the grounds of "objection of position".
 
-Each censure shall amount to one warning. The effect of each censure shall be determined by the number of prior warnings in that session 
-1) First warning No penalty; 
-2 ) Second warning The delegate loses his or her speaking rights for the remainder of that session; 
-3 ) Third warning The delegate shall be expelled from the Committee for the remainder of the session. If a delegate is consistently out of order across multiple sessions, and has already received two or more warnings in one session, the Secretariat may issue further sanctions.  
+If the Chair considers this to be in order, then the delegate will be asked to clarify, in one minute, where such a statement fits in with his or her country's policy. If the Chair directs, the delegate will be asked to retract the statement and/or the delegate will be warned for misrepresenting their country's position. 
 
-Rule 18 Appeals  
+55. National right of reply 
+If a delegate feels that their nation has been abused by a speaker, or that grossly false statements have been made, they may raise their placard, and await the completion of the speech. At the completion of the speech, the director will recognise the delegate. The delegate may then give a speech of no more than 30 seconds responding directly to the perceived abuse or falsehood. The directors may then request that the abusive delegate apologise.
 
-Exercises of the Director's discretion may be appealed. To appeal a decision, a delegate should call a Point of Order and then request an appeal. Frivolous appeals may be disallowed. The Director whose decision is under appeal shall step down for the duration of the appeal and the Committee shall be overseen by the other Director or a representative of the Secretariat. The delegate shall then speak to his or her appeal for no more than one minute. The Director may then reply in defence of his or her ruling. The appeal shall then be put to a vote. If a two-thirds majority is attained, the decision of the Director shall be over-ruled.  
+Motions from the floor
 
+56. Introduction of motions from the floor 
+Delegates wishing to request one of the following motions should raise their placard and wait to be recognised by the director, then state which motion they wish to raise. Motions may not interrupt speakers. 
+ 
+57. Motion for a moderated caucus 
+A motion for a moderated caucus may be proposed throughout formal debate. Delegates proposing such a motion shall specify the proposed topic, duration and speaking time. If a motion passes, the committee shall move directly to a moderated caucus. 
+ 
+58. Motion to extend moderated caucus 
+A motion to extend the moderated caucus may be proposed during a moderated caucus. Delegates proposing such a motion may specify the duration of which they wish the moderated caucus be extended. If the motion passes, the caucus shall be extended. 
+ 
+59. Motion to return to formal debate 
+A motion to return to formal debate may be proposed during a moderated caucus. If such a motion is passed, the committee shall return to formal debate. 
+ 
+60. Motion for an unmoderated caucus 
+A motion for unmoderated caucus may be proposed throughout formal debate. Delegates proposing such a motion may wish to specify the proposed duration of the caucus. If the motion passes, the committee shall move directly to an unmoderated caucus. 
+ 
+61. Motion to introduce a draft resolution 
+A motion to introduce draft resolution may be proposed during formal debate. Only the proposer of a draft resolution may raise this motion. If the motion passes, the proposed draft resolution shall be introduced under Rule 41. 
+ 
+62. Motion to introduce an amendment 
+A motion to introduce an amendment may be proposed during formal debate under a draft resolution speakers list. Only the proposer of an amendment may raise this motion. If such a motion passes, the proposed amendment shall be introduced under Rule 45. 
+ 
+63. Motion to suspend debate 
+A motion to suspend debate may be proposed during formal debate under a draft resolution speakers list. If such a motion passes, the draft resolution currently being discussed is set aside, the draft resolution speakers list is closed and suspended, and the general speakers list is resumed. 
+ 
+64. Motion to resume debate 
+A motion to resume debate may be proposed under a general speakers list where a draft resolution has previously been suspended. If the motion passes, debate on the draft resolution is resumed. 
+ 
+65. Motion to close debate 
+A motion to close debate may be proposed during formal debate under a draft resolution or amendment speakers list. If proposed for a draft resolution, this motion shall generate a procedural speakers list in accordance with Rule 50. If this motion passes, the committee will move directly to a vote on the draft resolution or amendment. 
+ 
+66. Motion to divide the question 
+A motion to divide the question must be proposed immediately before any vote on a draft resolution or amendment where initial votes on resolutions may not be divided. If the motion passes, each operative clause shall be voted on individually. The question may not be divided into sub-clauses. 
+a. In the case of an amendment, each clause passed is included in the draft resolution. 
+b. In the case of a draft resolution, the operative clauses that remain shall be considered as the final draft resolution, which will then be voted on (in its entirety) following normal 
+procedure. 
+ 
+67. Motion for a roll call vote 
+A motion for a roll call vote may be proposed immediately prior to a vote. The director shall retain broad discretion over the entertainment of such motions. If the motion is passed, the vote shall occur by roll call. 
+ 
+68. Motion for a recount 
+A motion for recount may be proposed immediately after the announcement of the results of a vote. Such a motion shall not go to a vote, and shall be ruled upon at the discretion of the director. If the motion is approved by the director, the vote shall be repeated. There shall not be more than one recount of a vote, unless the chair deems it necessary. 
+ 
+69. Motion for procedural debate 
+A motion for procedural debate may be requested after any procedural motion has been proposed. It may be raised if a delegate disagrees with a procedural motion being put forward from the floor, with the wish that the committee debate the idea before making a decision. Motions for procedural debate shall be at the discretion of the director. If the director decides in its favour, the committee shall then debate the motion under question, in accordance with Rule 47. 
+ 
+70. Motion to adjourn session 
+A motion to adjourn debate may be requested towards the end of committee session. Should such a motion pass the session shall come to a close, with the director making note of the time that the committee will reconvene. 
+ 
+Precedence of points and motions
+71. Precedence of points and motions
+Motions and points shall be addressed in the following order, when there is more than one motion or point: 
+ 
+a.	Point of personal privilege 
+b.	National right of reply 
+c.	Point of order 
+d.	Point of procedural enquiry 
+e.	Point of information 
+f.	Motion for procedural debate 
+g.	Motion to suspend debate 
+h.	Motion to close debate 
+i.	Motion to resume debate 
+j.	Motion for a moderated caucus 
+k.	Motion to extend moderated caucus 
+l.	Motion to return to formal debate 
+m.	Motion for an unmoderated caucus 
+n.	Motion to introduce a draft resolution 
+o.	Motion to introduce an amendment 
+p.	Motion to adjourn session 
  
 
-SECTION C: ORDER OF SESSION  
+72. Motions in order during voting procedure 
+During voting, motions and points shall be accorded the following order: 
 
-Rule 19 Right to Statement  
+a.	Point of personal privilege 
+b.	Point of order 
+c.	Objection of position 
+d.	Point of procedural enquiry 
+e.	Motion for procedural debate 
+f.	Motion to divide the question 
+g.	Motion for a roll call vote 
+h.	Motion for recount 
 
-At the beginning of each session, the Director shall invite delegates to exercise their Right to Statement. The Right to Statement allows delegates to give a short address on any topic that is not material to the substantive topic under discussion. This is at the Director's discretion.  
-
-Rule 20 Minute of Prayer or Meditation  
-
-At the beginning of each session, delegates may stand and request a Minute of Prayer or Meditation. The Director may ask him or her to specify a particular topic for prayer or meditation. This is at the Director's discretion.  
-
-Rule 21 Commencement of Debate  
-
-At the completion of any Rights to Statement or of a Minute of Prayer or Meditation, the Director shall announce the commencement of debate. If a Speaker's List was not exhausted at the completion of the previous session, that Speakers' List shall be resumed.  
-
-Rule 22 Closure of Session  
-
-The Director may close debate at his discretion, with due consideration applied to scheduled closing times and the facilitation of debate. Upon the closure of a session, the Director shall state the intended opening time of the next Regular Session and whether debate on the current agenda item will continue or debate on the next agenda item will commence.   
-
- 
-
-SECTION D CLASSES OF DEBATE  
-
-Rule 23 Opening Statements  
-
-Discussion of each agenda item shall begin with Opening Statements. Opening statements allow delegates to introduce their countries' positions on the issue. Each Opening Statement shall be no longer than one minute. The Director may set further time limits at his or her discretion. The Director shall recognise Member States in alphabetical order and offer each the opportunity to give an opening statement. Delegates may refrain from making an Opening Statement.  
-
-Rule 24 Substantive Debate  
-
-Substantive debate shall be divided into three categories 
-1) Moderated Caucuses; 2 ) Un-moderated Caucuses; 3 ) Formal Debate.  
-
-Rule 25 Procedural Debate  
-
-Certain Procedural Motions may generate or allow for Procedural Debate. All such debate shall be in strict accordance to the rules governing Formal Debate. No speech in Procedural Debate shall be longer than one minute, and the Director may set further time limits at his or her discretion.  
+Voting
+73. Classes of vote 
+There shall be two classes of vote: procedural and substantive. 
+a. All votes on motions, amendments, and any other matter, shall be procedural. All votes on draft resolutions shall be substantive. 
+b. Substantive votes shall be by roll call at the discretion of the director. Procedural votes shall be by placard, unless a delegate requests a roll call vote. 
 
  
-
-SECTION E MODERATED CAUCUSES  
-
-Rule 26 Initiation of Moderated Caucuses  
-
-Moderated Caucuses must be initiated by motion. At the initiation of a Moderated Caucus, the Director shall specify to all delegates 1) The topic of the Moderated Caucus; 2 ) The duration of the Moderated Caucus; and 3 ) The time limit for individual speeches within the Moderated Caucus.  
-
-Rule 27 Procedure in Moderated Caucuses  
-
-Speakers shall remain at their seats within the Committee Chamber throughout the Moderated Caucus. Speakers shall stand only when recognised by the Director. No Speakers List shall be drawn up. The Director shall, at the completion of each speech, call for those wishing to speak to raise their placards and then recognise one such delegate, who shall then stand and speak. All speeches shall be made through the Director. If the Moderated Caucus was initiated by a motion from the floor, its Proposer shall have first speaking rights.  
-
-Rule 28 Topic of Moderated Caucuses  
-
-Moderated Caucuses shall be specifically focused upon one issue within the scope of an agenda item. If a speaker deviates from this topic, the Director may discipline him or her, or another delegate may call a Point of Order.  
-
-Rule 29 Duration of Moderated Caucuses 
-
-The duration of a Moderated Caucus shall be set by the Director. Delegates proposing a Moderated Caucus in a motion from the floor may propose a time limit for the Moderated Caucus. The Director may extend a Moderated Caucus by up to five minutes without a motion, but extensions of over five minutes require a Motion to Extend the Caucus to be passed. A delegate may propose a Motion to Return to Formal Debate, and if such a motion passes, the Moderated Caucus shall end.  
-
-Rule 30 Time Limit of Speeches  
-
-Time limits shall be strictly enforced. No speech may exceed two minutes. The Director may, at his or her discretion, apply further limits.  
-
+74. Voting rights 
+Each member state in the committee shall have one vote. Observers, non-government organisations and members of the press gallery do not have voting rights. 
  
-
-SECTION F UNMODERATED CAUCUSES  
-
-Rule 31 Initiation of Unmoderated Caucuses  
-
-Unmoderated Caucuses must be initiated by motion. At the initiation of an Un-Moderated Caucus, the Director shall specify the duration of the Unmoderated Caucus to all delegates. The Director may also, at his or her discretion, specify  1) Any limits to the location of the Unmoderated Caucus; or 2 ) Whether the Speakers' List for Formal Debate remains open.  
-
-Rule 32 Definition of Unmoderated Caucuses  
-
-An Unmoderated Caucus is a period of discussion of a fixed length during which time delegates may circulate and discuss issues arising from the agenda item under discussion. No points or motions from the floor shall be entertained.  
-
-Rule 33 Duration of Unmoderated Caucuses The duration of an Unmoderated Caucus shall be set by the Director. Delegates proposing an Unmoderated Caucus in a motion from the floor may propose a time limit. These time limits shall be strictly applied, but the Director may extend or call to a close Unmoderated Caucuses at his or her discretion. All delegates must return to their seats at the completion of the Unmoderated Caucus.  
-
-Rule 34 Location of Unmoderated Caucuses  
-
-Delegates may leave the Committee Chamber during an Unmoderated Caucus. It is their responsibility to ensure that they return to the Committee Chamber at or before the completion of the Caucus.  
-
-Rule 35 Conduct of Directors during Unmoderated Caucus  
-
-One Director or the Secretary shall remain within the Committee Chamber throughout the Unmoderated Caucus.  
-
+75. Exercise of veto 
+The use of veto power by permanent members in the Security Council may only be used on substantive matters. 
  
-
-SECTION G FORMAL DEBATE  
-
-Rule 36 Primacy of Formal Debate  
-
-Unless otherwise stated, the rules of Formal Debate are presumed to apply throughout all Committee sessions.  
-
-Rule 37 Definition of Formal Debate  
-
-Formal debate shall be the primary method for discussion of agenda items at the Conference. During Formal Debate, all speeches shall be made through the Director in strict accordance with the Speakers' Lists. All motions and points from the floor shall be open. Time limits for speeches shall be set by the Director, but shall be no more than five minutes.  
-
+76. Passing of procedural votes 
+All procedural votes require a simple majority of present and voting members to pass. Delegates must vote on all procedural motions. Delegates cannot abstain from procedural votes. Delegates vote by raising their placard only when the director requests votes "for" and "against". Delegates may vote "for" or "against" but cannot abstain. 
  
-
-SECTION H WORKING PAPERS, DRAFT RESOLUTIONS AND AMENDMENTS  
-
-Rule 38 Distribution of Working Papers  
-
-Working Papers may be submitted to the Director by any delegate. To be distributed to the Committee, a Working Paper must: 1) Be signed by its Proposer; 2 ) Clearly state which Committee and agenda item it pertains to; and 3 ) Be typed and free from errors of spelling and grammar. The Director may, at his or her discretion, reject frivolous or inappropriate proposed Working Papers.  
-
-Rule 39 Introduction of Working Papers  
-
-Working Papers are introduced when they are distributed by the Director to all Committee delegates and may not be discussed until they are introduced. Multiple Working Papers may be discussed simultaneously and they do not generate Speakers' Lists. The Director will notify all delegates of the introduction of a Working Paper when it has been distributed to all delegates.  
-
-Rule 40 Distribution of Draft Resolutions  
-
-Draft Resolutions may be proposed by any Member State. A Draft Resolution must be distributed to all delegates by the Director before it may be introduced. To be distributed, a Draft Resolution must 1) Be signed by its Proposer and Seconder; 2 ) Clearly state which Committee and agenda item it pertains to; 3 ) Be signed by at least one quarter of the Member States in the Committee; 4 ) Follow correct UN Resolution format; and 5 ) Be typed and free from errors of spelling and grammar.  The Director may, at his or her discretion, reject frivolous or inappropriate Draft Resolutions.  
-
-Rule 41 Introduction of Draft Resolutions  
-
-Draft Resolutions are introduced by motion from the floor. If a Draft Resolution is successfully introduced 1) The Director shall close and suspend the General Speakers List; 2 ) The Proposer shall come forward to read the Operative Clauses; 3 ) Questions of Clarification shall be entertained; 4 ) Syntactic and Semantic Amendments shall be taken; 5 ) The Proposer shall speak to the Draft Resolution; 6 ) The Director shall open the Draft Resolution Speakers' List; 7) The Seconder shall speak to the Draft Resolution; then 8) The Draft Resolution Speaker's List shall commence with the first speaker against.  
-
-Rule 42 Questions of Clarification 
-
- Questions of Clarification may be asked of the Proposer from the floor. Questions of Clarification may include questions about the definition of terms or the meaning of potentially ambiguous terms and phrases. Questions of Clarification may not be asked so as to induce debate on the Draft Resolution, or so as to question the Proposer's position on the agenda item.  
-
-Rule 43 Syntactic and Semantic Amendments  
-
-The Director or any Delegate may propose amendments to the syntax or semantics of a Draft Resolution between its introduction and the commencement of debate on it. Such amendments may be used to correct errors in spelling or punctuation, address syntactical and semantic errors, or to address clear and unintentional ambiguities within a clause. If the Proposer does not object, such amendments may be passed at the discretion of the Director.  
-
-Rule 44 Distribution of Amendments  
-
-Amendments may be proposed by any Member State. An Amendment must be submitted to the Director before it may be introduced. Amendments need not be distributed to all delegates, but all delegates must have the opportunity to read an amendment before any vote on its introduction. All Amendments must 1) Be signed by its Proposer and Seconder; 2 ) Clearly state which Committee, agenda item and Draft Resolution it pertains to; 3 ) Be signed by at least ten percent of the Member States in the Committee; 4 ) Follow correct UN Resolution format; and 5 ) Be typed or clearly hand-written and free from errors of spelling and grammar. The Director may, at his or her discretion, reject frivolous or inappropriate Amendments.  
-
-Rule 45 Introduction of Amendments  
-
-Amendments are introduced by motion from the floor. If an Amendment is successfully introduced 1) The Director shall close and suspend the Draft Resolution Speakers List; 2 ) The Proposer shall come forward an read the Amendment; 3 ) Questions of Clarification shall be entertained; 4 ) Syntactic and Semantic Amendments shall be taken; 5 ) The Committee shall carry out a vote to determine whether or not to debate the Amendment; then 6 ) If the vote to debate passes, an Amendment Speakers' List shall be opened, the Proposer shall speak to the Amendment, and the Amendment Speakers' List shall then commence with the first speaker against; or 7) If the vote to debate fails, the Amendment shall move directly to a vote.  
-
+77. Passing of substantive votes 
+Substantive votes shall be passed by simple majority of members present and voting. Members present and voting are those who vote either for or against, but not those who abstain. Delegates may vote with rights. 
  
+78. Voting in the Security Council 
+In the Security Council, all votes shall require nine affirmative votes to pass. However, only substantive votes shall automatically fail if a vote "against" is cast by any of the permanent members: People's Republic of China, France, Russian Federation, United Kingdom of Great Britain and Northern Ireland, and the United States of America. 
 
-SECTION I SPEAKERS' LISTS  
-
-Rule 46 Role of Speakers' Lists  
-
-Speakers' Lists shall determine the speaking order throughout Formal Debate and shall be drawn up by the Director. During Formal Debate, only speakers on a Speakers' List may give speeches, although others may raise motions and points from the floor or speak if yielded to.  
-
-Rule 47 Opening and Closure of Speakers' List  
-
-The Director will open and close Speakers Lists by declaration. Speakers may only be added to an open Speakers' List.   
-
-Rule 48 Addition to and Removal from the Speakers' List  
-
-When a Speakers' List is opened, delegates may be added to the list by 1) Raising their placard if and when requested to do so by the Director; or 2 ) Sending a note to the Chair. No delegate may be added again to a Speaker's List that he or she is already on. A delegate who has spoken or been otherwise removed from a Speaker's List may be added to the Speakers' List. A delegate may be removed from the Speakers' List by sending a note to the Chair.  
-
-Rule 49 Classes of Speakers' List  
-
-There shall be four classes of Speakers' Lists 1) General Speakers' List; 2 ) Draft Resolution Speakers' Lists; 3 ) Amendment Speakers' Lists; 4 ) Procedural Speakers' Lists.  
-
-Rule 50 The General Speakers' List  
-
-The General Speakers' List shall encompass all Formal Debate on the issue between the completion of Position Speeches and commencement of debate on Draft Resolutions.  
-
-Rule 51 Draft Resolution Speakers' Lists  
-
-When Formal Debate commences on a Draft Resolution, the Director shall draw up and open a Speakers' List to discuss the Draft Resolution. This Speakers' List shall be arranged into speakers for and against the Draft Resolution. All speeches should substantially address the Draft Resolution. While such lists are in operation, amendments may be submitted.  
-
-Rule 52 Proposer's Right of Reply  
-
-At the exhaustion of a Draft Resolution Speakers' List, or otherwise immediately prior to voting on a Draft Resolution, the proposing delegate may deliver a short address summarising the advantages of the Draft Resolution. This address will be no longer than two minutes.  
-
-Rule 53 Amendment Speakers' Lists 
-
- If the Committee moves to debate an amendment, the Director shall draw up an Amendment Speakers' List. This list shall function in the manner of a Draft Resolution Speakers' List, but the discussion is to be focused on the Amendment alone. No Proposer's Right of Reply shall apply.  
-
-Rule 54 Procedural Speakers' Lists  
-
-A Procedural Speakers' List shall be opened when debate is required on a procedural motion. All procedural motions except the Motion to Close Debate will move directly to a vote without debate unless there is an objection from the floor. Motions to Close Debate will always be debated. During a procedural debate 1) Speaking times shall be set at no more than one minute or one half of the general speaking time, whichever is the shortest; 2 ) No debate of substantive matters is to be entered into; 3 ) No yields to other delegates shall be entertained; 4 ) No more than three speakers for and against the motion shall be entertained; and 5 ) No Proposer's Right of Reply shall apply.  
-
-Rule 55 Yielding  
-
-At any time during substantive Formal Debate, a speaker, upon the completion of his speech, shall have the opportunity to Yield to 1) The Director, in which case the Director shall invite the next speaker forward; 2 ) Another delegate on the Speaker's List, in which case the Director shall invite that delegate forward to speak. If the original speaker did not take any Points of Information and has time remaining, the incoming speaker may speak for the sum of the time allocated to him via the Speakers' List and the remaining time on the clock for the yielding speaker. If the yielding speaker took Points of Information or exhausted his time, the incoming speaker shall only have his previously allocated time; or 3 ) Any other delegate not upon the Speaker's List, in which case the Director shall allow the incoming delegate to speak only for as long as the outgoing delegate had time remaining. A delegate may only yield to another delegate not on the Speakers' List if 1) He or she has time remaining; and 2 ) He or she did not take Points of Information  No more than two consecutive yields to other delegates will be accepted; the third yield will automatically go to the Director.  
-
+79. Proposer's right of reply 
+At the exhaustion of a draft resolution speakers list, or immediately prior to voting on a draft resolution, the proposing delegate may deliver a short address summarising the advantages of the draft resolution. In the case the proposer is unwilling to speak in favour, the seconder may be offered the opportunity to speak. This address will be no longer than two minutes. This does not apply to amendments, and there is no opposition's right of reply. 
  
-
-SECTION J POINTS FROM THE FLOOR  
-
-Rule 56 Available Points from the Floor  
-
-There shall be five classes of points from the floor 1) Point of Order; 2 ) Points of Personal Privilege; 3 ) Points of Procedural Enquiry; 4 ) Point of Information; 5 ) National Right of Reply. The Director has the discretion to refuse frivolous or inappropriate points from the floor. No cross-floor debate shall be tolerated.  
-
-Rule 57 Operation of Points of Order  
-
-A delegate may call a Point of Order if another delegate or the Director is in breach of these rules of procedure. A Point of Order may interrupt the debate at any time. When a Point of Order is recognised, the delegate raising the Point is to explain, in less than thirty seconds, how procedure has not been followed. The Director shall then rule as to whether the Point is in or out of order.  
-
-Rule 58 Operation of Points of Personal Privilege  
-
-Points of Personal Privilege may be raised if a speaker is inaudible or any matter of the Committee environment is unsatisfactory. When a Point of Personal Privilege is recognised, the delegate raising the Point is to explain his or her concern in less than thirty seconds. Unless urgent, Points of Personal Privilege should be made in writing.  
-
-Rule 59 Operation of Points of Procedural Enquiry  
-
-A Point of Procedural Enquiry allows a delegate to clarify matters of procedure. Points of Procedural Enquiry may not interrupt speakers. When a Point of Procedural Enquiry is recognised, the delegate raising the Point is to outline, in less than thirty seconds, what element of procedure he or she wishes clarification on. Unless urgent, Points of Procedural Enquiry should be made in writing. Whether or not the Point is made orally, the Director shall respond with an oral declaration to all delegates. 
-
- Rule 60 Operation of Points of Information 
-
- Points of Information may be offered at the end of any speech arising from a non-procedural Speakers List. Points of Information may not be addressed to the Proposer or Seconder of a Draft Resolution, or the Proposer of an Amendment. Speakers may choose to accept or refuse Points of Information. If a speaker elects to take Points of Information, the Director will then invite delegates wishing to make such points to raise their placards, without speaking, and await recognition. The Director or delegate may limit the number of Points of Information at his or her discretion. All points of information are to be brief, relevant, and in the form of a question. 
-
- Rule 61 Operation of National Right of Reply  
-
-If a delegate feels that his or her nation has been abused by a speaker, or that false statements have been made about his or her nation, he or she may stand, raise his or her placard, and await the completion of the speech. The Director may, if the speaker is extremely discourteous, interrupt the speech and request an immediate apology and/or issue a warning. At the completion of the speech, the Director will at his or her discretion recognise the standing delegate. The delegate may then give a speech of no more than one minute responding to the abuse or falsehood. The Director may then request that the abusive delegate apologise.  
-
+80. Procedure of roll call votes 
+The directors shall read out the voting countries in alphabetical order. When a delegate's member state is read out, he or she shall reply with "for", "against", or "abstain". 
  
-
-SECTION K MOTIONS FROM THE FLOOR  
-
-Rule 62 Definition of Procedural Motions 
-
- Procedural Motions allow delegates or the Director to exercise control over matters of procedure within the limits of these Rules of Procedure. Procedural motions may be made by any delegate or the Director. Procedural motions may not interrupt speakers. A delegate wishing to raise a procedural motion should stand, raise his or her placard and state the motion he or she wishes to raise. He or she may not speak to his or her motion. The Director may reject frivolous or inappropriate motions. A motion that has been recognised shall be put to the vote.  
-
-Rule 63 Available Procedural Motions  
-
-There are fourteen procedural motions available 1) Motion for a Moderated Caucus; 2 ) Motion to Extend the Moderated Caucus; 3 ) Motion to Return to Formal Debate; 4 ) Motion for an Unmoderated Caucus; 5 ) Motion to Introduce a Draft Resolution; 6 ) Motion to Introduce an Amendment; 7) Motion to Suspend Debate; 8) Motion to Resume Debate; 9 ) Motion to Close Debate; 10) Motion to Divide the Question; 11) Motion for Roll Call Vote; 12) Motion for Recount; 13) Motion for Procedural Debate; 14) Motion to Adjourn Session.  
-
-Rule 64 Motion for a Moderated Caucus  
-
-A Motion for a Moderated Caucus may be proposed throughout Formal Debate. Delegates proposing such a motion may wish to specify the proposed topic and duration of the Caucus. If a Motion for a Moderated Caucus passes, the Committee shall move directly to a Moderated Caucus.  
-
-Rule 65 Motion to Extend the Moderated Caucus 
-
- A Motion to Extend the Moderated Caucus may be proposed during a Moderated Caucus. Delegates proposing such a motion may specify the duration to which he wishes the Moderated Caucus be extended. If a Motion to Extend the Moderated Caucus passes, the Caucus shall be extended.  
-
-Rule 66 Motion to Return to Formal Debate 
-
- A Motion to Return to Formal Debate may be proposed during a Moderated Caucus. If such a motion is passed, the Committee shall return to Formal Debate.  
-
-Rule 67 Motion for an Unmoderated Caucus 
-
- A Motion for Unmoderated Caucus may be proposed throughout Formal Debate. Delegates proposing such a motion may wish to specify the proposed duration of the Caucus. If a Motion for an Unmoderated Caucus passes, the Committee shall move directly to an Unmoderated Caucus.  
-
-Rule 68 Motion to Introduce a Draft Resolution  
-
-A Motion to Introduce Draft Resolution may be proposed during Formal Debate under the General Speakers' List. Only the Proposer of a Draft Resolution may raise this motion. If it motion passes, the proposed Draft Resolution shall be introduced under Rule 40.  
-
-Rule 69 Motion to Introduce an Amendment 
-
-A Motion to Introduce an Amendment may be proposed during Formal Debate under a Draft Resolution Speakers' List. Only the Proposer of an Amendment may raise this motion. If such a motion passes, the proposed Amendment shall be introduced under Rule 44.  
-
-Rule 70 Motion to Suspend Debate A Motion to Suspend  
-
-Debate may be proposed during Formal Debate under a Draft Resolution Speakers' List. If such a motion passes, the Draft Resolution shall be put aside, the Draft Resolution Speakers' List closed and suspended and the General Speakers' List resumed.  
-
-Rule 71 Motion to Resume Debate  
-
-A Motion to Resume Debate may be proposed during Formal Debate under the General Speakers' List when a Draft Resolution has previously been suspended. If such a motion passes, debate on the Draft Resolution shall be resumed. 
-
-Rule 72 Motion to Close Debate  
-
-A Motion to Close Debate may be proposed during Formal Debate under a Draft Resolution or Amendment Speakers' List. If proposed for a Draft Resolution, this Motion shall generate a Procedural Speakers' List. If this Motion passes, the Committee will move directly to a vote on the Draft Resolution or Amendment   
-
-Rule 73 Motion to Divide the Question  
-
-A Motion to Divide the Question may be proposed immediately prior to any vote on a Draft Resolution or Amendment. If this motion passes, the clauses shall be voted on individually by placard vote.  
-
-Rule 74 Motion for Roll-Call Vote A Motion for Roll-Call  
-
-Vote may be proposed immediately prior to a vote. The Director has a broad discretion to reject such motions in the interests of time. If this motion is passed, the vote shall be by roll-call. 
-
-Rule 75 Motion for Recount  
-
-A Motion for Recount may be proposed immediately after the announcement of the results of a vote. Such a motion shall not go to a vote, and shall be ruled upon at the Director's discretion. If the motion is passed by the Director, the vote shall be repeated.  
-
-Rule 76 Motion for Procedural Debate 
-
- A Motion for Procedural Debate may be proposed after any procedural Motion has been proposed. The Director has discretion to entertain Motions for Procedural Debate. The passing of such a motion shall result in the creation of a Procedural Speakers' List.  
-
-Rule 77 Motion to Adjourn Session 
-
- A Motion to Adjourn Session may be proposed throughout Formal Debate. The Director has a broad discretion to reject such motions. If such a Motion passes, the Committee shall be adjourned and the Director shall specify a time for the Committee to reconvene.  
-
-Rule 78 Precedence of Motions and Points  
-
-Motions and Points from the floor will be according the following precedence 1. Points of Personal Privilege (Rule 58); 2 . Point of Order (Rule 57); 3 . Points of Procedural Enquiry (Rule 59); 4 . National Right of Reply (Rule 61); 5 . Point of Information (Rule 60); 6 . Motion for Procedural Debate (Rule 76); 7. Motion to Suspend Debate (Rule 70); 8. Motion to Close Debate (Rule 72); 9 . Motion to Resume Debate (Rule 71); 10. Motion for a Moderated Caucus (Rule 64); 11. Motion to Extend the Moderated Caucus (Rule 65); 12. Motion to Return to Formal Debate (Rule 66); 13. Motion for an Unmoderated Caucus (Rule 67); 14. Motion to Introduce a Draft Resolution (Rule 68); 15. Motion to Introduce an Amendment (Rule 69); 16. Motion to Adjourn Session (Rule 77). During the voting procedure, the following Motions and Points shall be in order, and shall be according the following precedence 1. Points of Personal Privilege (Rule 58); 2 . Point of Order (Rule 57); 3 . Points of Procedural Enquiry (Rule 59); 4 . Motion for Procedural Debate (Rule 76); 5 . Motion to Divide the Question (Rule 73); 6 . Motion for Roll Call Vote (Rule 74); 7. Motion for Recount (Rule 75).  
-
+81. Conduct during substantive voting 
+Note passing will be closed. No points of procedure or motions from the floor will be entertained during voting. A point of order may only be called if the director has failed to oversee the vote in accordance with these rules. 
  
+82. Proxy voting 
+When a delegate is, for whatever reason, unable to remain in the committee chamber for a vote, 
+he or she may submit a proxy vote in writing to the directors. Proxy votes may entrust the delegate's voting power to another delegate with voting rights, or may direct how the absent delegate will vote on a specific draft resolution, motion, or amendment. A proxy vote may only be held for the duration of the day in which it was granted. 
 
-SECTION L VOTING  
+83. Right or responsibility to deliver explanation of voting 
+During any substantive vote, a delegate may request or be requested to explain his or her vote. Such requests may be made by the director or a delegate at the completion of the vote, but before the count of votes is announced. No delegate shall be required to explain an abstention. 
 
-Rule 79 Classes of Vote  
-
-There shall be two classes of vote procedural and substantive. All votes on Draft Resolutions shall be substantive. All votes on motions, amendments and any other matter shall be procedural. Delegates may elect to vote for, against or abstain on substantive votes, but may only vote for or against on procedural votes. All substantive votes shall be by roll-call. All procedural votes shall prima facie be by placard-vote.  
-
- Rule 80 Voting Rights  
-
-Each Member State in the Committee shall have one vote. Observers do not have voting rights.  
-
-Rule 81 Passing of Procedural Votes 
-
- All procedural votes require a simple majority of present and voting members to pass.  
-
-Rule 82 Passing of Substantive Votes.  
-
-Substantive votes shall be passed by simple majority of members present and voting. Members present and voting are those who vote either for or against but not those who abstain.  
-
-Rule 83 Procedure of Placard Votes 
-
- In a placard vote, delegates vote by raising their placard only. 
-
- Rule 84 Procedure of Roll-Call Votes  
-
-The Director shall read out the voting countries in alphabetical order. When a delegate's Member State is read out, he or she shall reply with “yes”, “no”, or “abstain”.  
-
-Rule 85 Conduct during Voting.  
-
-Note passing will be closed. No points of procedure or motions from the floor will be entertained during voting. A point of order may only be called if the Director has failed to oversee the vote in accordance with these rules  
-
-Rule 86 Proxy Voting  
-
-When a delegate is for whatever reason unable to remain in the Committee Chamber for a substantive vote, he or she may submit a proxy vote in writing to the Director.   
-
-Rule 87 Right or Responsibility to Deliver Explanation of Voting 
-
- During any substantive vote, a delegate may request or be requested to explain his or her vote. Such requests may be made by the Director or a delegate at the completion of the vote but before the count of votes is announced. No delegate shall explain an abstention. Explanation may only be requested by another delegate if the vote goes against the known policy of the delegate's country or is at odds with his or her statements during debate. A delegate may, on voting, request the opportunity to explain by making a vote “yes, with rights” or “no, with rights”. The Director has discretion to refuse any request for explanation. Such explanation shall take place before the announcement of results, and shall be made in no more than thirty seconds.  
-
-Rule 88 Equally divided votes.  
-
-If a vote is equally divided and a simple majority is required, a recount shall be called. If the recount is equally divided 1) Procedural votes shall be taken as failed; 2 ) Substantive votes shall be suspended and debate resumed until the Director or a Delegate moves to return to the vote. If this subsequent vote is also equally divided, the proposal shall be taken as failed. 
-
+Explanation may only be requested by another delegate if the vote goes against the known policy of the delegate's country or is at odds with his or her statements during debate (see also Rule 54). If the directors consider such an explanation inadequate, they may warn the delegate and invite a motion for recount under Rule 72. 
  
-
- Copyright 2007 © AMUNC 2007 Ltd. These rules of procedure are the property of AMUNC 2007 Ltd. All rights reserved.   
-
-
+A delegate may, on voting, request the opportunity to explain by making a vote "yes, with rights" or "no, with rights". Such explanation shall take place before the announcement of results, and shall be made in no more than thirty seconds. 
+ 
+84. Equally divided votes 
+If a vote is equally divided and a simple majority is required, a recount shall be called. If the recount is equally divided: 
+a. Procedural votes shall be taken as failed; 
+b. Substantive votes shall be suspended and debate resumed until the directors or a delegate move to return to the vote. If this subsequent vote is also equally divided, the proposal shall be taken as failed. 
